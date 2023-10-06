@@ -1,3 +1,5 @@
+#ROWE PEARL ROWENA
+#SCT211-0678/2021
 height=float(input ("enter your height"))
 weight=float(input("enter your weight"))
 BMI=weight/(height)*2
