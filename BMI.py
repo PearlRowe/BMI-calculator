@@ -1,1 +1,2 @@
-height=int(input ("enter your height"))
+height=float(input ("enter your height"))
+weight=float(input("enter your weight"))
